@@ -28,12 +28,5 @@ The primary objectives of this project include:
 - Providing real-time monitoring and analysis of driver behavior and road conditions.
 - Creating a proactive system that can predict and prevent potential accidents.
 
-## Project Structure 📁
-
-The project repository is structured as follows:
-
-- `src/`: Contains source code for AI algorithms, computer vision modules, and data integration scripts.
-- `datasets/`: Includes sample datasets used for training and testing the AI models.
-- `docs/`: Documentation and user guides for the project.
-- `models/`: Directory for storing trained AI models and weights.
-- `LICENSE`: Project license information.
+For more details and updates, refer to the project documentation and code repository.
+This project is prepared for Dr. Sara Khalil.
