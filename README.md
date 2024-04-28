@@ -29,4 +29,5 @@ The primary objectives of this project include:
 - Creating a proactive system that can predict and prevent potential accidents.
 
 For more details and updates, refer to the project documentation and code repository.
+
 This project is prepared for Dr. Sara Khalil.
