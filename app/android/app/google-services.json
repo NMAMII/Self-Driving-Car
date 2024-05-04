@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057640820594",
+    "project_id": "iotx-8a230",
+    "storage_bucket": "iotx-8a230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057640820594:android:242d33f3f90fc3decdb7eb",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUnmCMAMMXUioDDS7m_Vw1Rh6HINFvac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
