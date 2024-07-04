@@ -1,0 +1,3 @@
+[submodule "grad-project-e-commerce"]
+	path = grad-project-e-commerce
+	url = https://github.com/amr512/grad-project-e-commerce.git
