@@ -2,7 +2,7 @@
 
 Welcome to the AI-Driven Driver Safety System project repository. This project aims to develop an innovative AI-powered system for monitoring driver behavior, analyzing road conditions, and enhancing overall road safety.
 
-## Overview ℹ️
+## Overview 
 
 The AI-Driven Driver Safety System project focuses on:
 
@@ -11,7 +11,7 @@ The AI-Driven Driver Safety System project focuses on:
 - Integrating with onboard sensors and cameras to collect and process vehicle data.
 - Creating a user-friendly interface for displaying alerts and notifications to drivers.
 
-## Features 🌟
+## Features 
 
 - Real-time monitoring of driver fatigue, distraction, and impairment.
 - Accurate analysis of road conditions, traffic patterns, and potential hazards.
